@@ -1,7 +1,7 @@
 # 💫 About Me:
 -🔭 I’m currently working on content creations on LinkeIn for college students, job seekers and a tutorials for beginners to learn CSS.<br>-🌱 I’m currently learning Backend technologies<br>-👯 I’m looking to collaborate on open source projects that benefit the community<br>- 🤝 I’m looking for help with guidance in developing a chrome extension with BardAI API key which can be used to answer prompts<br>- 💬 Ask me about CSS Tips, Developer hacks, Productivity.<br>- 📫 How to reach me hariramanansaravanan@gmail.com<br>- ⚡ Fun fact I am always keen on Learning<br>
-<img src=https://www.google.com/search?sca_esv=562567314&q=animated+coding+gif&tbm=isch&source=lnms&sa=X&ved=2ahUKEwj-woX9sJGBAxUQBYgKHX32DCUQ0pQJegQICRAB&biw=1536&bih=792&dpr=1.25#imgrc=heNSQwKORMWQ6M alt="Image" width="400" height="400">
 
+![Uploading giphy.gif…]()
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hari__ramanan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Hari Ramanan) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Hari-Ramanan) 
