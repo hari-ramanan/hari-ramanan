@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hari-ramanan&theme=dracula" alt="hari-ramanan" /></a> </p>
 
-- 🔭 I’m currently working on **🔭 I’m currently working on content creations on LinkeIn for college students, job seekers, Web developers and a github repo for begineers to learn CSS**
-- 👯 I’m looking to collaborate on **👯 I’m looking to collaborate on open source projects that benefit the community**
-- 🤝 I’m looking for help with **🤝 I’m looking for help with guidance in developing a chrome extension with BardAI API key which can be used to answer prompts**
-- 🌱 I’m currently learning **🌱 I’m currently learning React JS & Backend technologies**
-- 💬 Ask me about **💬 Ask me about HTML, CSS, React, Developer Hacks**
+- 🔭 I’m currently working on content creations on LinkeIn for college students, job seekers, Web developers and a github repo for begineers to learn CSS
+- 👯 I’m looking to collaborate on open source projects that benefit the community
+- 🤝 I’m looking for help with guidance in developing a chrome extension with BardAI API key which can be used to answer prompts
+- 🌱 I’m currently learning React JS & Backend technologies
+- 💬 Ask me about HTML, CSS, React, Developer Hacks
 - 📫 How to reach me **hariramanansaravanan@gmail.com**
 - ⚡ Fun fact **I am always keen on Learning**
 
