@@ -1,4 +1,5 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<h1 align="center">Hi 👋, I'm Hari Ramanan</h1>
 <h3 align="center">A proactive Web developer with a strong passion for Linux.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hari-ramanan&label=Profile%20views&color=0e75b6&style=flat" alt="hari-ramanan" /> </p>
 
@@ -8,7 +9,7 @@
 - 👯 I’m looking to collaborate on **👯 I’m looking to collaborate on open source projects that benefit the community**
 - 🤝 I’m looking for help with **🤝 I’m looking for help with guidance in developing a chrome extension with BardAI API key which can be used to answer prompts**
 - 🌱 I’m currently learning **🌱 I’m currently learning React JS & Backend technologies**
-- 💬 Ask me about **💬 Ask me about HTML, CSS, Developer Hacks, Life hacks**
+- 💬 Ask me about **💬 Ask me about HTML, CSS, React, Developer Hacks**
 - 📫 How to reach me **hariramanansaravanan@gmail.com**
 - ⚡ Fun fact **I am always keen on Learning**
 
