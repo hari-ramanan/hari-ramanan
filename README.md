@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hari-ramanan&theme=dracula" alt="hari-ramanan" /></a> </p>
 
-- 🔭 I’m currently working on content creations on LinkeIn related to AI and preparing a website for everyone to learn programming easily by real world apporach
 - 👯 I’m looking to collaborate on open source projects that benefit the community
 - 🌱 I’m currently learning React JS & Backend technologies
 - 💬 Ask me about HTML, CSS, React, Developer Hacks
