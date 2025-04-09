@@ -7,8 +7,8 @@
 
 - 👯 I’m looking to collaborate on open source projects that benefit the community
 - 🌱 I’m currently learning React JS & Backend technologies
-- 💬 Ask me about HTML, CSS, React, Developer Hacks
-- 📫 How to reach me **hariramanansaravanan@gmail.com**
+- 💬 Ask me about Threat Intelligence.
+- 📫 How to reach me ****
 - ⚡ Fun fact **I am always keen on Learning**
 
 <div> <a href="https://www.linkedin.com/in/hari-ramanan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
